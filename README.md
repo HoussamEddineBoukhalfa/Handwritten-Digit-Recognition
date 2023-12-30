@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition 🚀🔢🌟💻
 
-This is my first Project in Limitless Learning Boot-camp🥇🪄, It's a Deep Learning Project 🤖 
+This is my first Project in  Deep Learning Boot-camp🥇🪄, It's a Deep Learning Project 🤖 
 about Handwritten Digit Recognition 
 I create it Using PyTorch Python Framework with the MNIST Dataset👓 8️⃣9️⃣ . 
 
